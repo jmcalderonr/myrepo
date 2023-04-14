@@ -1,4 +1,5 @@
 #Data Exploration
+#First part of the second class
 
 #Databases to explain variable types
 
